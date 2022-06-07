@@ -1,3 +1,4 @@
+
 body{
 	font-family: 'Montserrat', sans-serif;
 }
@@ -18,7 +19,7 @@ img {
 }
 /* Header */
 .nav-tool {
-  background: rgba(0,0,0,0.8);
+  background: 013852;
   font-size: 0.85em;
   font-weight: 200;
 }
